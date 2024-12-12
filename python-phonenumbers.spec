@@ -1,5 +1,5 @@
 Name:		python-phonenumbers
-Version:	8.13.49
+Version:	8.13.51
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/phonenumbers/phonenumbers-%{version}.tar.gz
 Summary:	Python version of
