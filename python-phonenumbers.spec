@@ -3,7 +3,7 @@
 
 Name:		python-phonenumbers
 Version:	9.0.6
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/p/phonenumbers/phonenumbers-%{version}.tar.gz
 Summary:	Python version of
 URL:		https://pypi.org/project/phonenumbers/
