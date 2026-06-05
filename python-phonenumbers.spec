@@ -2,7 +2,7 @@
 %bcond tests 1
 
 Name:		python-phonenumbers
-Version:	9.0.31
+Version:	9.0.32
 Release:	1
 Summary:	Python library for parsing, formatting, storing and validating international phone numbers
 License:	Apache-2.0
